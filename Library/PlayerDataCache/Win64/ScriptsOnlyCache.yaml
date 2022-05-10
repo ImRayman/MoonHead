@@ -1,0 +1,1857 @@
+ScriptsOnlyBuild:
+  usedScripts:
+    Assembly-CSharp-Editor.dll:
+    - Klak.Wiring.Patcher.Graph
+    - Klak.Wiring.Patcher.GraphGUI
+    - Klak.Wiring.Patcher.PatcherWindow
+    Assembly-CSharp.dll:
+    - AsciiArtFx
+    - Kino.AnalogGlitch
+    - Kino.Binary
+    - Kino.Bloom
+    - Kino.Bokeh
+    - Kino.Contour
+    - Kino.Feedback
+    - Kino.Motion
+    - Kino.Vignette
+    - Kino.Vision
+    - Klak.Midi.NoteInput
+    - Klak.Motion.BrownianMotion
+    - Klak.Wiring.AxisRotation
+    - Klak.Wiring.FromToVector
+    - Klak.Wiring.KeyInput
+    - Klak.Wiring.MouseButtonInput
+    - Klak.Wiring.MousePositionInput
+    - Klak.Wiring.Noise
+    - Klak.Wiring.Patch
+    - Klak.Wiring.RandomValue
+    - Klak.Wiring.Repeat
+    - Klak.Wiring.RotationMix
+    - Klak.Wiring.Toggle
+    - Klak.Wiring.TransformOut
+    - Klak.Wiring.Vector
+    - Klak.Wiring.VectorMix
+    - Kvant.Stream
+    - SceneChanger
+    - Videolab.PhotomaticEffect
+    Unity.Rider.Editor.dll:
+    - Packages.Rider.Editor.UnitTesting.CallbackData
+    Unity.TextMeshPro.dll:
+    - TMPro.TMP_FontAsset
+    - TMPro.TMP_Settings
+    - TMPro.TMP_SpriteAsset
+    - TMPro.TMP_StyleSheet
+    UnityEditor.Graphs.dll:
+    - UnityEditor.Graphs.AnimationBlendTree.Graph
+    - UnityEditor.Graphs.AnimationBlendTree.GraphGUI
+    - UnityEditor.Graphs.AnimationStateMachine.AnyStateNode
+    - UnityEditor.Graphs.AnimationStateMachine.Graph
+    - UnityEditor.Graphs.AnimationStateMachine.GraphGUI
+    - UnityEditor.Graphs.AnimationStateMachine.StateNode
+    - UnityEditor.Graphs.AnimatorControllerTool
+    UnityEditor.TestRunner.dll:
+    - UnityEditor.TestTools.TestRunner.Api.CallbacksHolder
+    - UnityEditor.TestTools.TestRunner.TestListCacheData
+    - UnityEditor.TestTools.TestRunner.TestRun.TestJobDataHolder
+    UnityEngine.UI.dll:
+    - UnityEngine.EventSystems.EventSystem
+    - UnityEngine.EventSystems.StandaloneInputModule
+    - UnityEngine.UI.CanvasScaler
+    - UnityEngine.UI.GraphicRaycaster
+    - UnityEngine.UI.Image
+    - UnityEngine.UI.Slider
+  sceneClasses:
+    Assets/Scenes/0_PictoFriends.unity:
+    - Class: 1
+      Script: {instanceID: 0}
+    - Class: 4
+      Script: {instanceID: 0}
+    - Class: 20
+      Script: {instanceID: 0}
+    - Class: 21
+      Script: {instanceID: 0}
+    - Class: 23
+      Script: {instanceID: 0}
+    - Class: 28
+      Script: {instanceID: 0}
+    - Class: 33
+      Script: {instanceID: 0}
+    - Class: 43
+      Script: {instanceID: 0}
+    - Class: 48
+      Script: {instanceID: 0}
+    - Class: 49
+      Script: {instanceID: 0}
+    - Class: 74
+      Script: {instanceID: 0}
+    - Class: 81
+      Script: {instanceID: 0}
+    - Class: 91
+      Script: {instanceID: 0}
+    - Class: 95
+      Script: {instanceID: 0}
+    - Class: 104
+      Script: {instanceID: 0}
+    - Class: 108
+      Script: {instanceID: 0}
+    - Class: 114
+      Script: {instanceID: 11630}
+    - Class: 114
+      Script: {instanceID: 11902}
+    - Class: 114
+      Script: {instanceID: 11912}
+    - Class: 114
+      Script: {instanceID: 12040}
+    - Class: 114
+      Script: {instanceID: 12058}
+    - Class: 114
+      Script: {instanceID: 12072}
+    - Class: 114
+      Script: {instanceID: 12100}
+    - Class: 114
+      Script: {instanceID: 12114}
+    - Class: 114
+      Script: {instanceID: 12176}
+    - Class: 114
+      Script: {instanceID: 12578}
+    - Class: 114
+      Script: {instanceID: 12778}
+    - Class: 114
+      Script: {instanceID: 12880}
+    - Class: 114
+      Script: {instanceID: 12920}
+    - Class: 114
+      Script: {instanceID: 12930}
+    - Class: 114
+      Script: {instanceID: 12944}
+    - Class: 114
+      Script: {instanceID: 13426}
+    - Class: 114
+      Script: {instanceID: 13464}
+    - Class: 114
+      Script: {instanceID: 13524}
+    - Class: 114
+      Script: {instanceID: 13716}
+    - Class: 114
+      Script: {instanceID: 13774}
+    - Class: 114
+      Script: {instanceID: 13778}
+    - Class: 115
+      Script: {instanceID: 0}
+    - Class: 128
+      Script: {instanceID: 0}
+    - Class: 135
+      Script: {instanceID: 0}
+    - Class: 157
+      Script: {instanceID: 0}
+    - Class: 196
+      Script: {instanceID: 0}
+    - Class: 212
+      Script: {instanceID: 0}
+    - Class: 213
+      Script: {instanceID: 0}
+    Assets/Scenes/1_PictoTrain.unity:
+    - Class: 1
+      Script: {instanceID: 0}
+    - Class: 4
+      Script: {instanceID: 0}
+    - Class: 20
+      Script: {instanceID: 0}
+    - Class: 21
+      Script: {instanceID: 0}
+    - Class: 23
+      Script: {instanceID: 0}
+    - Class: 28
+      Script: {instanceID: 0}
+    - Class: 33
+      Script: {instanceID: 0}
+    - Class: 43
+      Script: {instanceID: 0}
+    - Class: 48
+      Script: {instanceID: 0}
+    - Class: 74
+      Script: {instanceID: 0}
+    - Class: 81
+      Script: {instanceID: 0}
+    - Class: 91
+      Script: {instanceID: 0}
+    - Class: 95
+      Script: {instanceID: 0}
+    - Class: 104
+      Script: {instanceID: 0}
+    - Class: 108
+      Script: {instanceID: 0}
+    - Class: 114
+      Script: {instanceID: 11630}
+    - Class: 114
+      Script: {instanceID: 11902}
+    - Class: 114
+      Script: {instanceID: 11912}
+    - Class: 114
+      Script: {instanceID: 12040}
+    - Class: 114
+      Script: {instanceID: 12058}
+    - Class: 114
+      Script: {instanceID: 12072}
+    - Class: 114
+      Script: {instanceID: 12176}
+    - Class: 114
+      Script: {instanceID: 12578}
+    - Class: 114
+      Script: {instanceID: 12778}
+    - Class: 114
+      Script: {instanceID: 12880}
+    - Class: 114
+      Script: {instanceID: 13426}
+    - Class: 114
+      Script: {instanceID: 13524}
+    - Class: 114
+      Script: {instanceID: 13716}
+    - Class: 114
+      Script: {instanceID: 13774}
+    - Class: 114
+      Script: {instanceID: 13778}
+    - Class: 115
+      Script: {instanceID: 0}
+    - Class: 135
+      Script: {instanceID: 0}
+    - Class: 157
+      Script: {instanceID: 0}
+    - Class: 196
+      Script: {instanceID: 0}
+    - Class: 212
+      Script: {instanceID: 0}
+    - Class: 213
+      Script: {instanceID: 0}
+    Assets/Scenes/2_PlasmaClub.unity:
+    - Class: 1
+      Script: {instanceID: 0}
+    - Class: 4
+      Script: {instanceID: 0}
+    - Class: 20
+      Script: {instanceID: 0}
+    - Class: 21
+      Script: {instanceID: 0}
+    - Class: 23
+      Script: {instanceID: 0}
+    - Class: 28
+      Script: {instanceID: 0}
+    - Class: 33
+      Script: {instanceID: 0}
+    - Class: 43
+      Script: {instanceID: 0}
+    - Class: 48
+      Script: {instanceID: 0}
+    - Class: 74
+      Script: {instanceID: 0}
+    - Class: 81
+      Script: {instanceID: 0}
+    - Class: 91
+      Script: {instanceID: 0}
+    - Class: 95
+      Script: {instanceID: 0}
+    - Class: 104
+      Script: {instanceID: 0}
+    - Class: 108
+      Script: {instanceID: 0}
+    - Class: 114
+      Script: {instanceID: 11316}
+    - Class: 114
+      Script: {instanceID: 11570}
+    - Class: 114
+      Script: {instanceID: 11630}
+    - Class: 114
+      Script: {instanceID: 11912}
+    - Class: 114
+      Script: {instanceID: 12040}
+    - Class: 114
+      Script: {instanceID: 12058}
+    - Class: 114
+      Script: {instanceID: 12072}
+    - Class: 114
+      Script: {instanceID: 12150}
+    - Class: 114
+      Script: {instanceID: 12176}
+    - Class: 114
+      Script: {instanceID: 12578}
+    - Class: 114
+      Script: {instanceID: 12778}
+    - Class: 114
+      Script: {instanceID: 12880}
+    - Class: 114
+      Script: {instanceID: 13238}
+    - Class: 114
+      Script: {instanceID: 13426}
+    - Class: 114
+      Script: {instanceID: 13524}
+    - Class: 114
+      Script: {instanceID: 13692}
+    - Class: 114
+      Script: {instanceID: 13716}
+    - Class: 114
+      Script: {instanceID: 13754}
+    - Class: 114
+      Script: {instanceID: 13774}
+    - Class: 114
+      Script: {instanceID: 13778}
+    - Class: 115
+      Script: {instanceID: 0}
+    - Class: 135
+      Script: {instanceID: 0}
+    - Class: 157
+      Script: {instanceID: 0}
+    - Class: 196
+      Script: {instanceID: 0}
+    Assets/Scenes/3_Keyboard.unity:
+    - Class: 1
+      Script: {instanceID: 0}
+    - Class: 4
+      Script: {instanceID: 0}
+    - Class: 20
+      Script: {instanceID: 0}
+    - Class: 21
+      Script: {instanceID: 0}
+    - Class: 23
+      Script: {instanceID: 0}
+    - Class: 28
+      Script: {instanceID: 0}
+    - Class: 33
+      Script: {instanceID: 0}
+    - Class: 43
+      Script: {instanceID: 0}
+    - Class: 48
+      Script: {instanceID: 0}
+    - Class: 81
+      Script: {instanceID: 0}
+    - Class: 91
+      Script: {instanceID: 0}
+    - Class: 95
+      Script: {instanceID: 0}
+    - Class: 104
+      Script: {instanceID: 0}
+    - Class: 108
+      Script: {instanceID: 0}
+    - Class: 114
+      Script: {instanceID: 11298}
+    - Class: 114
+      Script: {instanceID: 11564}
+    - Class: 114
+      Script: {instanceID: 11630}
+    - Class: 114
+      Script: {instanceID: 11902}
+    - Class: 114
+      Script: {instanceID: 11912}
+    - Class: 114
+      Script: {instanceID: 12040}
+    - Class: 114
+      Script: {instanceID: 12058}
+    - Class: 114
+      Script: {instanceID: 12072}
+    - Class: 114
+      Script: {instanceID: 12176}
+    - Class: 114
+      Script: {instanceID: 12246}
+    - Class: 114
+      Script: {instanceID: 12578}
+    - Class: 114
+      Script: {instanceID: 12696}
+    - Class: 114
+      Script: {instanceID: 12778}
+    - Class: 114
+      Script: {instanceID: 12878}
+    - Class: 114
+      Script: {instanceID: 12880}
+    - Class: 114
+      Script: {instanceID: 13142}
+    - Class: 114
+      Script: {instanceID: 13254}
+    - Class: 114
+      Script: {instanceID: 13426}
+    - Class: 114
+      Script: {instanceID: 13482}
+    - Class: 114
+      Script: {instanceID: 13524}
+    - Class: 114
+      Script: {instanceID: 13716}
+    - Class: 114
+      Script: {instanceID: 13758}
+    - Class: 114
+      Script: {instanceID: 13774}
+    - Class: 114
+      Script: {instanceID: 13778}
+    - Class: 115
+      Script: {instanceID: 0}
+    - Class: 135
+      Script: {instanceID: 0}
+    - Class: 157
+      Script: {instanceID: 0}
+    - Class: 196
+      Script: {instanceID: 0}
+    - Class: 213
+      Script: {instanceID: 0}
+    - Class: 222
+      Script: {instanceID: 0}
+    - Class: 223
+      Script: {instanceID: 0}
+    - Class: 224
+      Script: {instanceID: 0}
+    Assets/Scenes/4_CheeseStick.unity:
+    - Class: 1
+      Script: {instanceID: 0}
+    - Class: 4
+      Script: {instanceID: 0}
+    - Class: 20
+      Script: {instanceID: 0}
+    - Class: 21
+      Script: {instanceID: 0}
+    - Class: 23
+      Script: {instanceID: 0}
+    - Class: 28
+      Script: {instanceID: 0}
+    - Class: 33
+      Script: {instanceID: 0}
+    - Class: 43
+      Script: {instanceID: 0}
+    - Class: 48
+      Script: {instanceID: 0}
+    - Class: 81
+      Script: {instanceID: 0}
+    - Class: 104
+      Script: {instanceID: 0}
+    - Class: 108
+      Script: {instanceID: 0}
+    - Class: 114
+      Script: {instanceID: 11316}
+    - Class: 114
+      Script: {instanceID: 11570}
+    - Class: 114
+      Script: {instanceID: 11630}
+    - Class: 114
+      Script: {instanceID: 11902}
+    - Class: 114
+      Script: {instanceID: 11912}
+    - Class: 114
+      Script: {instanceID: 12072}
+    - Class: 114
+      Script: {instanceID: 12176}
+    - Class: 114
+      Script: {instanceID: 12206}
+    - Class: 114
+      Script: {instanceID: 12246}
+    - Class: 114
+      Script: {instanceID: 12578}
+    - Class: 114
+      Script: {instanceID: 12778}
+    - Class: 114
+      Script: {instanceID: 12880}
+    - Class: 114
+      Script: {instanceID: 13238}
+    - Class: 114
+      Script: {instanceID: 13258}
+    - Class: 114
+      Script: {instanceID: 13426}
+    - Class: 114
+      Script: {instanceID: 13716}
+    - Class: 114
+      Script: {instanceID: 13772}
+    - Class: 114
+      Script: {instanceID: 13774}
+    - Class: 114
+      Script: {instanceID: 13778}
+    - Class: 115
+      Script: {instanceID: 0}
+    - Class: 135
+      Script: {instanceID: 0}
+    - Class: 157
+      Script: {instanceID: 0}
+    - Class: 196
+      Script: {instanceID: 0}
+    Assets/Scenes/5_Hungry.unity:
+    - Class: 1
+      Script: {instanceID: 0}
+    - Class: 4
+      Script: {instanceID: 0}
+    - Class: 20
+      Script: {instanceID: 0}
+    - Class: 21
+      Script: {instanceID: 0}
+    - Class: 23
+      Script: {instanceID: 0}
+    - Class: 28
+      Script: {instanceID: 0}
+    - Class: 33
+      Script: {instanceID: 0}
+    - Class: 43
+      Script: {instanceID: 0}
+    - Class: 48
+      Script: {instanceID: 0}
+    - Class: 65
+      Script: {instanceID: 0}
+    - Class: 74
+      Script: {instanceID: 0}
+    - Class: 81
+      Script: {instanceID: 0}
+    - Class: 91
+      Script: {instanceID: 0}
+    - Class: 95
+      Script: {instanceID: 0}
+    - Class: 104
+      Script: {instanceID: 0}
+    - Class: 108
+      Script: {instanceID: 0}
+    - Class: 114
+      Script: {instanceID: 11630}
+    - Class: 114
+      Script: {instanceID: 11902}
+    - Class: 114
+      Script: {instanceID: 11912}
+    - Class: 114
+      Script: {instanceID: 12058}
+    - Class: 114
+      Script: {instanceID: 12072}
+    - Class: 114
+      Script: {instanceID: 12176}
+    - Class: 114
+      Script: {instanceID: 12246}
+    - Class: 114
+      Script: {instanceID: 12578}
+    - Class: 114
+      Script: {instanceID: 12778}
+    - Class: 114
+      Script: {instanceID: 12880}
+    - Class: 114
+      Script: {instanceID: 13142}
+    - Class: 114
+      Script: {instanceID: 13238}
+    - Class: 114
+      Script: {instanceID: 13258}
+    - Class: 114
+      Script: {instanceID: 13426}
+    - Class: 114
+      Script: {instanceID: 13524}
+    - Class: 114
+      Script: {instanceID: 13716}
+    - Class: 114
+      Script: {instanceID: 13772}
+    - Class: 114
+      Script: {instanceID: 13774}
+    - Class: 114
+      Script: {instanceID: 13778}
+    - Class: 115
+      Script: {instanceID: 0}
+    - Class: 135
+      Script: {instanceID: 0}
+    - Class: 157
+      Script: {instanceID: 0}
+    - Class: 196
+      Script: {instanceID: 0}
+    - Class: 212
+      Script: {instanceID: 0}
+    - Class: 213
+      Script: {instanceID: 0}
+  scriptHashData:
+  - hash:
+      serializedVersion: 2
+      Hash: 9773629fca238d83924c412477253c02
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Klak.Wiring
+    className: DragEventInput
+  - hash:
+      serializedVersion: 2
+      Hash: 4bc4346a71a8df53a6b106f68ef3a190
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: CanvasScaler
+  - hash:
+      serializedVersion: 2
+      Hash: 8e271ea4a800ce3aec509e674e4261a1
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Bezier
+    className: Shape
+  - hash:
+      serializedVersion: 2
+      Hash: d3c45711cdacc657c399cc797c33c037
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Klak.Wiring
+    className: Noise
+  - hash:
+      serializedVersion: 2
+      Hash: d27675a963f77d795c96646b9ca7c0eb
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Kvant
+    className: NormalDeformer
+  - hash:
+      serializedVersion: 2
+      Hash: 7f3a35ff9318b014144600d782c6f45e
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Klak.Wiring
+    className: VectorValue
+  - hash:
+      serializedVersion: 2
+      Hash: 06d75f5073a437ec51e95fdab91b9f77
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Klak.Wiring
+    className: BoolOut
+  - hash:
+      serializedVersion: 2
+      Hash: c42672c997f8be6b1aa86a927ebea785
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_SelectionCaret
+  - hash:
+      serializedVersion: 2
+      Hash: 031cf5f47124c21b17e6e044eb1a9399
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Klak.Motion
+    className: SmoothFollow
+  - hash:
+      serializedVersion: 2
+      Hash: 87ff43d2baf3385cba327d8f803a4ebb
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: AudioPlayableAsset
+  - hash:
+      serializedVersion: 2
+      Hash: 626925ef558787b2d85c809198164d19
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_Dropdown
+  - hash:
+      serializedVersion: 2
+      Hash: a0a434c4f7a592f3049147ac2a0468aa
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: HeadBob
+  - hash:
+      serializedVersion: 2
+      Hash: 3000db5ab67d67882359250d29c5b295
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: MidiJack
+    className: MidiSource
+  - hash:
+      serializedVersion: 2
+      Hash: 17ea920e8ce21d8f7a506e1f45f9ea7f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Klak.Wiring
+    className: BangFilter
+  - hash:
+      serializedVersion: 2
+      Hash: cdae397d069a87828216aa38178e92df
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: MirrorReflection
+  - hash:
+      serializedVersion: 2
+      Hash: b244168b92bb8b122855bebdd3b63d75
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Klak.Wiring
+    className: TransformInput
+  - hash:
+      serializedVersion: 2
+      Hash: 60f41b2bbccfb352ea723e4a52f8dc10
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Klak.Wiring
+    className: TapEventInput
+  - hash:
+      serializedVersion: 2
+      Hash: e7a73f5f78ba6445195ec23b74a1ce2d
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_ScrollbarEventHandler
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: UnityEngine.TestRunner.dll
+    namespaceName: UnityEngine.TestTools.TestRunner.Callbacks
+    className: PlayerQuitHandler
+  - hash:
+      serializedVersion: 2
+      Hash: d19bceb63f57f4df6293b924cdba1f62
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Klak.Wiring
+    className: StringOut
+  - hash:
+      serializedVersion: 2
+      Hash: 863a4de7b25532ff97ce2c88a7ced2a1
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Videolab
+    className: Toy
+  - hash:
+      serializedVersion: 2
+      Hash: f83825b2ca288d4822c78e02f34e1678
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Skinner
+    className: SkinnerParticleTemplate
+  - hash:
+      serializedVersion: 2
+      Hash: c3d3430df9e3ea95e3e3d587961390fb
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: GroupTrack
+  - hash:
+      serializedVersion: 2
+      Hash: c3818dee6ab0220b8882f93d933ec7b7
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: MidiJack
+    className: MidiMap
+  - hash:
+      serializedVersion: 2
+      Hash: a5781dc71a671b1ad2b38de19f24b71f
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: ActivationTrack
+  - hash:
+      serializedVersion: 2
+      Hash: ef8e3d27fe3457bdbbed58b3855f1ba3
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Klak.Wiring
+    className: ColliderInput
+  - hash:
+      serializedVersion: 2
+      Hash: aeb62f729c52c814dec86c47dcac1471
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Text
+  - hash:
+      serializedVersion: 2
+      Hash: 499fd23433e68e265d153aa6b95d0047
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Scrollbar
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: PositionAsUV1
+  - hash:
+      serializedVersion: 2
+      Hash: abf1930d8126d0b2e00e9449129a0190
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.EventSystems
+    className: TouchInputModule
+  - hash:
+      serializedVersion: 2
+      Hash: 89f9a1b4c64db9559e39f4a2e3bfaadd
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Image
+  - hash:
+      serializedVersion: 2
+      Hash: 5f081b12c5666007d6df0550b04e051a
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Klak.Motion
+    className: BrownianMotion
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: UnityEngine.TestRunner.dll
+    namespaceName: UnityEngine.TestTools.TestRunner.Callbacks
+    className: TestResultRendererCallback
+  - hash:
+      serializedVersion: 2
+      Hash: 82225b4ecae3d909c62acb9201636f81
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Klak.Wiring
+    className: AnimatorOut
+  - hash:
+      serializedVersion: 2
+      Hash: a1ffd904ae65a6aaa7a95dad631c3214
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Skinner
+    className: SkinnerGlitchTemplate
+  - hash:
+      serializedVersion: 2
+      Hash: 234235b9fb07320d11497e08a726cc56
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_InputField
+  - hash:
+      serializedVersion: 2
+      Hash: ad3b711740b688b044639d0ce9734b49
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Skinner
+    className: SkinnerModel
+  - hash:
+      serializedVersion: 2
+      Hash: 57f66d5f94781fba6919baf211778394
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Kino
+    className: Feedback
+  - hash:
+      serializedVersion: 2
+      Hash: 7ab0e790220bdca831fdd886b339039d
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: GridLayoutGroup
+  - hash:
+      serializedVersion: 2
+      Hash: 4d87105573621483d5d3fb61c7daf159
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Klak.Midi
+    className: KnobOut
+  - hash:
+      serializedVersion: 2
+      Hash: 8aa3d6ccbcb54ee8db6c1229854adaaa
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: ContentSizeFitter
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: SignalAsset
+  - hash:
+      serializedVersion: 2
+      Hash: 6df44f812949325f3031341c8e161b31
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Klak.Wiring
+    className: MaterialFloatOut
+  - hash:
+      serializedVersion: 2
+      Hash: 0dbc3be398b4869a5c8d0d8481ee402c
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: LayoutElement
+  - hash:
+      serializedVersion: 2
+      Hash: 18c222bef9ae745ce69ddde9b74337ca
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.EventSystems
+    className: PhysicsRaycaster
+  - hash:
+      serializedVersion: 2
+      Hash: 6c03a933a3b6c4d760f90bc4f819faf9
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Videolab
+    className: WebcamManager
+  - hash:
+      serializedVersion: 2
+      Hash: 06d75f5073a437ec51e95fdab91b9f77
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Klak.Wiring
+    className: VectorOut
+  - hash:
+      serializedVersion: 2
+      Hash: ff731f046aae0bd3fde4c38321f784c1
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: MouseLook
+  - hash:
+      serializedVersion: 2
+      Hash: bd3cf68c8964d3c66d1c43f4f98508c9
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: AnimationTrack
+  - hash:
+      serializedVersion: 2
+      Hash: 90e2705d9a9b0f426f1c647e82ce62d2
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Kvant
+    className: Spray
+  - hash:
+      serializedVersion: 2
+      Hash: afe9d66b787b252c1629c11e9382256e
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Klak.Wiring
+    className: NodeBase
+  - hash:
+      serializedVersion: 2
+      Hash: fb13acaea2dbe37822d387ac813e0f6e
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Klak.Wiring
+    className: BoolInput
+  - hash:
+      serializedVersion: 2
+      Hash: cf9f5cf2c3145a37ac07f00e50e460f9
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: AspectRatioFitter
+  - hash:
+      serializedVersion: 2
+      Hash: fb13acaea2dbe37822d387ac813e0f6e
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Klak.Wiring
+    className: IntInput
+  - hash:
+      serializedVersion: 2
+      Hash: 62734a4df6a8415b3da9abcdeab4d3bb
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CheckIfBelowLevel
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: RectMask2D
+  - hash:
+      serializedVersion: 2
+      Hash: d941ab6dd93d37ffdf2277f2ea2375a0
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_SubMeshUI
+  - hash:
+      serializedVersion: 2
+      Hash: 6998a460d66ad33a7bd883ad4638b037
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Klak.Wiring
+    className: EulerRotation
+  - hash:
+      serializedVersion: 2
+      Hash: 120aa7533896d9e4b1615ac6b0cb237e
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Kvant
+    className: WarpTemplate
+  - hash:
+      serializedVersion: 2
+      Hash: 5ab533713adae59372fb3e10a585c186
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: AnimationPlayableAsset
+  - hash:
+      serializedVersion: 2
+      Hash: cf41de7858af5b50493da9aad6758190
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Klak.Wiring
+    className: ColorMix
+  - hash:
+      serializedVersion: 2
+      Hash: aa96580535f02cfb1d812c09c7005e71
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Videolab
+    className: PhotomaticEffect
+  - hash:
+      serializedVersion: 2
+      Hash: 3557f102142a3cec56e2d1053895b275
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Klak.Wiring
+    className: KeyInput
+  - hash:
+      serializedVersion: 2
+      Hash: b8e2ed6d779a434d1df7adfe27e22987
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Kino
+    className: DigitalGlitch
+  - hash:
+      serializedVersion: 2
+      Hash: 74a5a7a1fae6faa90478616805025998
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Klak.Wiring
+    className: ToggleFour
+  - hash:
+      serializedVersion: 2
+      Hash: aba7b2852ef61d175dd9602e7723d5e5
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Mask
+  - hash:
+      serializedVersion: 2
+      Hash: caa533b001ae39b864ba8425019e2268
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Shadow
+  - hash:
+      serializedVersion: 2
+      Hash: 2999a8c75a2162d2fcb022a5c2594dab
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Skinner
+    className: SkinnerGlitch
+  - hash:
+      serializedVersion: 2
+      Hash: 81fd22140f3f815274cd8a9e4ace3b71
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Skinner
+    className: SkinnerTrail
+  - hash:
+      serializedVersion: 2
+      Hash: b10f0f008d787b95a5928eed8ceaa36e
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Kino
+    className: Bloom
+  - hash:
+      serializedVersion: 2
+      Hash: 526a5dd2a85ac1bfe1a9aee64ec246e5
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Klak.Wiring
+    className: FloatValue
+  - hash:
+      serializedVersion: 2
+      Hash: 06d75f5073a437ec51e95fdab91b9f77
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Klak.Wiring
+    className: IntOut
+  - hash:
+      serializedVersion: 2
+      Hash: b0827a319e61821e0ba71b67b5e32b81
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Klak.Wiring
+    className: FromToVector
+  - hash:
+      serializedVersion: 2
+      Hash: cc4274b586df3c02688bac01b88bd16c
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.EventSystems
+    className: EventSystem
+  - hash:
+      serializedVersion: 2
+      Hash: 0fb27be807aa299702f28ad0bcad1f46
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: ControlPlayableAsset
+  - hash:
+      serializedVersion: 2
+      Hash: 06d75f5073a437ec51e95fdab91b9f77
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Klak.Wiring
+    className: RotationOut
+  - hash:
+      serializedVersion: 2
+      Hash: 197a785413e973e14384a100fe32790f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Kino
+    className: Bokeh
+  - hash:
+      serializedVersion: 2
+      Hash: 06d75f5073a437ec51e95fdab91b9f77
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Klak.Wiring
+    className: ColorOut
+  - hash:
+      serializedVersion: 2
+      Hash: b8a5e8091ab0b8861d2add371082c5e0
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_SpriteAsset
+  - hash:
+      serializedVersion: 2
+      Hash: c3d3430df9e3ea95e3e3d587961390fb
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: ControlTrack
+  - hash:
+      serializedVersion: 2
+      Hash: 8dc90e648ac06f43bdd31ac9fa8f4579
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Selectable
+  - hash:
+      serializedVersion: 2
+      Hash: a87029bd9045ee4fa2e8920fc5f38e11
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Kino
+    className: Vignette
+  - hash:
+      serializedVersion: 2
+      Hash: 668e8c823fe8eb34bcd3d4d94b055eb6
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Klak.Wiring
+    className: Patch
+  - hash:
+      serializedVersion: 2
+      Hash: 728175f170993263318f5678bfcd5c62
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Klak.Wiring
+    className: Repeat
+  - hash:
+      serializedVersion: 2
+      Hash: c8f7f264bc023f2245ef7c44d23a53fb
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Bezier
+    className: Handle
+  - hash:
+      serializedVersion: 2
+      Hash: afe9d66b787b252c1629c11e9382256e
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Klak.Wiring
+    className: RumbleOut
+  - hash:
+      serializedVersion: 2
+      Hash: f0ff1a3cd76f3a3759bf55ef80e56902
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Klak.Wiring
+    className: Starter
+  - hash:
+      serializedVersion: 2
+      Hash: f8210650e680426282be7b97036ae087
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Kvant
+    className: GenericDeformer
+  - hash:
+      serializedVersion: 2
+      Hash: 09238d76078c02b0e26c57bc419f9ae7
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: PauseMenu
+  - hash:
+      serializedVersion: 2
+      Hash: a92ae04821db6a76674d86dafc72179d
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Klak.Motion
+    className: CollisionDispatch
+  - hash:
+      serializedVersion: 2
+      Hash: b61c00785e97991ba0bae234a06f80ad
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Klak.Wiring
+    className: Vector
+  - hash:
+      serializedVersion: 2
+      Hash: 0cc23acf7e27114b318757c221ce0f42
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Skinner
+    className: SkinnerSource
+  - hash:
+      serializedVersion: 2
+      Hash: a3cb5e91305a0c7e7296ba2809de4d94
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: FirstPersonDrifter
+  - hash:
+      serializedVersion: 2
+      Hash: 692c0830cec604eb555abd688a80a054
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Klak.Wiring
+    className: WebcamManagerOut
+  - hash:
+      serializedVersion: 2
+      Hash: 6ca3a6f87a3842154292bc7648850f2f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Klak.Midi
+    className: SequencerOut
+  - hash:
+      serializedVersion: 2
+      Hash: 7797f6c550c0ec2cfeaf60f0c3b5bbc3
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Videolab
+    className: IKSolver
+  - hash:
+      serializedVersion: 2
+      Hash: ad84b608ab86be0c34900d8d98993fbc
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraZoom
+  - hash:
+      serializedVersion: 2
+      Hash: b3ab2106268377ffe25dd18ac23dca28
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_Asset
+  - hash:
+      serializedVersion: 2
+      Hash: 9d6f047727fd79502d079ed9538390bb
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Klak.Wiring
+    className: FloatVectorMix
+  - hash:
+      serializedVersion: 2
+      Hash: b0571cf157e6d3d4a495d67a0001cf72
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Videolab
+    className: RadioGroupMember
+  - hash:
+      serializedVersion: 2
+      Hash: b4b09b0c878d984f54ca2c65426039ce
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Kino
+    className: Fringe
+  - hash:
+      serializedVersion: 2
+      Hash: c9d3a5ee1c10efa38dc3cbf4dd7db054
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Kvant
+    className: WallScroller
+  - hash:
+      serializedVersion: 2
+      Hash: d4020bafcd3ccbb5601a6e6c8ac78be0
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: ScrollRect
+  - hash:
+      serializedVersion: 2
+      Hash: c7535d2c20254f096847347a6349cd7a
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Klak.Wiring
+    className: FloatAnimation
+  - hash:
+      serializedVersion: 2
+      Hash: c3d3430df9e3ea95e3e3d587961390fb
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: SignalTrack
+  - hash:
+      serializedVersion: 2
+      Hash: 3940e21c01d09ff8359336996a85a9d4
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Kvant
+    className: WigTemplate
+  - hash:
+      serializedVersion: 2
+      Hash: efa27fcf2c91a63a15d52999df9f45f6
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Videolab
+    className: Degrade
+  - hash:
+      serializedVersion: 2
+      Hash: a8779619d4e50358400bd2865f3897a3
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Klak.Wiring
+    className: ActiveStatusOut
+  - hash:
+      serializedVersion: 2
+      Hash: 06d75f5073a437ec51e95fdab91b9f77
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Klak.Wiring
+    className: FloatOut
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_SpriteAnimator
+  - hash:
+      serializedVersion: 2
+      Hash: 57f9697060e5ab3d0ac8620d2a6e9c75
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Klak.Motion
+    className: ConstantMotion
+  - hash:
+      serializedVersion: 2
+      Hash: b0d3c7fda7ab785393047e99b4dfc685
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Klak.Midi
+    className: SequencerInput
+  - hash:
+      serializedVersion: 2
+      Hash: 083f018f630a4d22306e2b7b38cbdb12
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Klak.Wiring
+    className: EventOut
+  - hash:
+      serializedVersion: 2
+      Hash: 51977de90cd2ce2f2584d45be00ab833
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Klak.Wiring
+    className: RectTransformOut
+  - hash:
+      serializedVersion: 2
+      Hash: 6df44f812949325f3031341c8e161b31
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Klak.Wiring
+    className: MaterialVectorOut
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: UnityEngine.TestRunner.dll
+    namespaceName: UnityEngine.TestTools.TestRunner.Callbacks
+    className: RemoteTestResultSender
+  - hash:
+      serializedVersion: 2
+      Hash: 44248daa489e9ff93c6e0740fbbaefcd
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Klak.Wiring
+    className: TransformOut
+  - hash:
+      serializedVersion: 2
+      Hash: 6265e9b2a8e02426af90f9995133d0c6
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Klak.Wiring
+    className: AxisInput
+  - hash:
+      serializedVersion: 2
+      Hash: 4fd8bf02e3089425d3502e26c44ba31a
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TextContainer
+  - hash:
+      serializedVersion: 2
+      Hash: 5f1752ed2092162f016c19510c28a8b9
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Button
+  - hash:
+      serializedVersion: 2
+      Hash: 909966caaad2afc5e62d0de523b4d423
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Skinner
+    className: SkinnerTrailTemplate
+  - hash:
+      serializedVersion: 2
+      Hash: f84d945e5e1ca985698660fc26e9657f
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: RawImage
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: LockMouse
+  - hash:
+      serializedVersion: 2
+      Hash: c045d6ea0607b8332ba446a4116496ad
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Klak.Midi
+    className: NoteInput
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Skinner
+    className: CullingStateController
+  - hash:
+      serializedVersion: 2
+      Hash: 5ad4aa237d47ac2bab17bacb672edf7a
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: VerticalLayoutGroup
+  - hash:
+      serializedVersion: 2
+      Hash: f86861d387d5a0f2ef16e4a2b18275bd
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Klak.Wiring
+    className: ButtonInput
+  - hash:
+      serializedVersion: 2
+      Hash: 90fad5199e9873929538b982909b169b
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Kvant
+    className: Stream
+  - hash:
+      serializedVersion: 2
+      Hash: b105ad4e87fd0e7ea5a0c2cb90d0c9d7
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Reaktion
+    className: SelfDestruction
+  - hash:
+      serializedVersion: 2
+      Hash: ce19761d0f0d960719d29582191dbb3b
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Kvant
+    className: Wall
+  - hash:
+      serializedVersion: 2
+      Hash: 0d85f4fda1e0e70cd92c084d12f05cdc
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Videolab
+    className: DollyZoom
+  - hash:
+      serializedVersion: 2
+      Hash: c0ffada44917e19b06d8a5e56b1c427d
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Klak.Wiring
+    className: FloatMix
+  - hash:
+      serializedVersion: 2
+      Hash: 64a0694f24b4448b2d32ee944cab3e95
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Skinner
+    className: SkinnerParticle
+  - hash:
+      serializedVersion: 2
+      Hash: 2d77eaa6d1ba9702274c666f9ced4a07
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Kvant
+    className: WigController
+  - hash:
+      serializedVersion: 2
+      Hash: e80bbb863642fc10ac32b7a310591f7d
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Klak.Wiring
+    className: Toggle
+  - hash:
+      serializedVersion: 2
+      Hash: 2ce3c90efb7d914dc35c94bd4ffba8ad
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Klak.Wiring
+    className: MouseButtonInput
+  - hash:
+      serializedVersion: 2
+      Hash: 783f593b9380cf72d0f7ebfd4a0d4bcd
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: InputField
+  - hash:
+      serializedVersion: 2
+      Hash: c9a8b80298a116835b51ba1cf9284367
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: SignalReceiver
+  - hash:
+      serializedVersion: 2
+      Hash: 50946f6a70c5c0398146031ea78ca8b1
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Klak.Wiring
+    className: ColorRamp
+  - hash:
+      serializedVersion: 2
+      Hash: 4d78dafba2117bdf193ff0ee3e38c81c
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: AsciiArtFx
+  - hash:
+      serializedVersion: 2
+      Hash: fb13acaea2dbe37822d387ac813e0f6e
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Klak.Wiring
+    className: FloatInput
+  - hash:
+      serializedVersion: 2
+      Hash: 5ad4aa237d47ac2bab17bacb672edf7a
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: HorizontalLayoutGroup
+  - hash:
+      serializedVersion: 2
+      Hash: 35a9693c388776aaf487636491a20f11
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_FontAsset
+  - hash:
+      serializedVersion: 2
+      Hash: e1300922cc039f41ab46a47f4cb05898
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_Settings
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: ActivationPlayableAsset
+  - hash:
+      serializedVersion: 2
+      Hash: 18c222bef9ae745ce69ddde9b74337ca
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.EventSystems
+    className: Physics2DRaycaster
+  - hash:
+      serializedVersion: 2
+      Hash: 613f4e8fb5661d789f4a4edf8d854e3a
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Klak.Wiring
+    className: VectorInput
+  - hash:
+      serializedVersion: 2
+      Hash: 096a521adb461369d067f14fb4041676
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Reaktion
+    className: Spawner
+  - hash:
+      serializedVersion: 2
+      Hash: 7d3625422b325e31ee2bcb649ce388a0
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Klak.Wiring
+    className: VideoPlayerOut
+  - hash:
+      serializedVersion: 2
+      Hash: c1933cc0a2f4ff6eb13333347497beb3
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: TimelineAsset
+  - hash:
+      serializedVersion: 2
+      Hash: be5a6e49c2f9ba3fb4adb03ed7555e41
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Kvant
+    className: Swarm
+  - hash:
+      serializedVersion: 2
+      Hash: 0376ccaeeb49b8268c1479489f252d34
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Klak.Wiring
+    className: ParticleSystemOut
+  - hash:
+      serializedVersion: 2
+      Hash: 198f66524676b8e5a7ad9ed829c8bc04
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Klak.Midi
+    className: VideolabInput
+  - hash:
+      serializedVersion: 2
+      Hash: 781ce9f29a09b829ce9f3947888ca489
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Kino
+    className: Ramp
+  - hash:
+      serializedVersion: 2
+      Hash: a469e552949205520831b8d71318e27a
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Klak.Wiring
+    className: Selector
+  - hash:
+      serializedVersion: 2
+      Hash: 916b59862d85c74023b8b8866b8b5537
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Kino
+    className: Vision
+  - hash:
+      serializedVersion: 2
+      Hash: 9a0ec0129c6ef371eb99101272b4cc19
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Skinner
+    className: SkinnerDebug
+  - hash:
+      serializedVersion: 2
+      Hash: 8001a5f7502aab37e42206da015e6914
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TextMeshProUGUI
+  - hash:
+      serializedVersion: 2
+      Hash: ddc88e574e6e2286955b78157364a5de
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Klak.Wiring
+    className: Accumulator
+  - hash:
+      serializedVersion: 2
+      Hash: f336e086360abe49a3323e5f1583c35a
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: AudioTrack
+  - hash:
+      serializedVersion: 2
+      Hash: fdf3252af28379637e4068698122e5b4
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Klak.Wiring
+    className: RotationMix
+  - hash:
+      serializedVersion: 2
+      Hash: 4b2065beb7f2719ee81d5fd6e2f19519
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Klak.Wiring
+    className: HSBColor
+  - hash:
+      serializedVersion: 2
+      Hash: ae83e830e7a90c0aff918c4c2e520825
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: GraphicRaycaster
+  - hash:
+      serializedVersion: 2
+      Hash: ca5bc0fce203ae0b1187f90849a86aab
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Klak.Wiring
+    className: RandomValue
+  - hash:
+      serializedVersion: 2
+      Hash: 88cc9df3c6fc697bfbeacd24c0d6f2d7
+    assemblyName: UnityEngine.TestRunner.dll
+    namespaceName: UnityEngine.TestTools
+    className: BeforeAfterTestCommandState
+  - hash:
+      serializedVersion: 2
+      Hash: 75eeb017c118628cd288e1173a757c43
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Klak.Wiring
+    className: SystemPropertyOut
+  - hash:
+      serializedVersion: 2
+      Hash: f1ebdc0a2b6164742c42b8daaced5013
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Klak.Wiring
+    className: Threshold
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Videolab
+    className: IKJoint
+  - hash:
+      serializedVersion: 2
+      Hash: accb736c8ca02925fbad9127d2b5c66b
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Klak.Midi
+    className: KnobInput
+  - hash:
+      serializedVersion: 2
+      Hash: 75506d357690389d5ea5804c74ce091a
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Kino
+    className: Datamosh
+  - hash:
+      serializedVersion: 2
+      Hash: 180d84d2698accfa60ad528aeeb8b2bb
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Klak.Wiring
+    className: ComponentVector
+  - hash:
+      serializedVersion: 2
+      Hash: b6655facfc69c02c069a450634e7e800
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Kino
+    className: Tube
+  - hash:
+      serializedVersion: 2
+      Hash: 0b8613c1e12681b0ddbff76864faf738
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Klak.Wiring
+    className: VectorComponents
+  - hash:
+      serializedVersion: 2
+      Hash: 6e3cd3d342d1515c7ce00348ef7f9c47
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Kvant
+    className: Warp
+  - hash:
+      serializedVersion: 2
+      Hash: 1535486f2532f956560ca186613111b0
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Klak.Wiring
+    className: AxisRotation
+  - hash:
+      serializedVersion: 2
+      Hash: 047e68cf0639d92fbbcd2c3f0575041e
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Bezier
+    className: EvenOddFill
+  - hash:
+      serializedVersion: 2
+      Hash: 478f0b4ba598616e009725d0c21b4970
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Kino
+    className: IsolineScroller
+  - hash:
+      serializedVersion: 2
+      Hash: c3d3430df9e3ea95e3e3d587961390fb
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: MarkerTrack
+  - hash:
+      serializedVersion: 2
+      Hash: d791aa6007fa3640be1164ea75bb087d
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_StyleSheet
+  - hash:
+      serializedVersion: 2
+      Hash: 5c2a8d7ed66e2d7e7f667b8ac4794530
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Kino
+    className: Motion
+  - hash:
+      serializedVersion: 2
+      Hash: b6e59af6806d21977eb00811994557fd
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Kino
+    className: Contour
+  - hash:
+      serializedVersion: 2
+      Hash: afe9d66b787b252c1629c11e9382256e
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Klak.Wiring
+    className: ConsoleOut
+  - hash:
+      serializedVersion: 2
+      Hash: 3000db5ab67d67882359250d29c5b295
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: MidiJack
+    className: MidiDestination
+  - hash:
+      serializedVersion: 2
+      Hash: 21d73eda81c18eacd2c91ad5dfaf2e32
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TextMeshPro
+  - hash:
+      serializedVersion: 2
+      Hash: 57361a4efe27ca5af11cc20a74a86887
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Klak.Wiring
+    className: FloatFilter
+  - hash:
+      serializedVersion: 2
+      Hash: 3165968ba45c74472d279ba04455fccb
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_ColorGradient
+  - hash:
+      serializedVersion: 2
+      Hash: dcff97d48c63f75ab1ed851df482c2b6
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Klak.Midi
+    className: NoteOut
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: UnityEngine.TestRunner.dll
+    namespaceName: UnityEngine.TestTools.TestRunner.Callbacks
+    className: PlayModeRunnerCallback
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.EventSystems
+    className: BaseInput
+  - hash:
+      serializedVersion: 2
+      Hash: 8527fae658bbb1e9599a87cbc448a8c9
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Videolab
+    className: Halftone
+  - hash:
+      serializedVersion: 2
+      Hash: caa533b001ae39b864ba8425019e2268
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Outline
+  - hash:
+      serializedVersion: 2
+      Hash: a63fc1a3b035e5a0b5839cd7f7b3086e
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.EventSystems
+    className: EventTrigger
+  - hash:
+      serializedVersion: 2
+      Hash: 8649814970b42d345b89944b862453cc
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_SubMesh
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: UnityEngine.TestRunner.dll
+    namespaceName: UnityEngine.TestRunner.Utils
+    className: TestRunCallbackListener
+  - hash:
+      serializedVersion: 2
+      Hash: 62ac98de18c41b83d3253c9375cc7fdb
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Klak.Wiring
+    className: PlayableDirectorOut
+  - hash:
+      serializedVersion: 2
+      Hash: 4ef0f7d42cdb13479386e1f049c315aa
+    assemblyName: UnityEngine.TestRunner.dll
+    namespaceName: UnityEngine.TestTools.TestRunner
+    className: PlaymodeTestsController
+  - hash:
+      serializedVersion: 2
+      Hash: 2aeeec1b1a144c469cd2d37776bc2315
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Dropdown
+  - hash:
+      serializedVersion: 2
+      Hash: 1b5c6f41532df4eb18fa9f93c2f32a0d
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Kino
+    className: Binary
+  - hash:
+      serializedVersion: 2
+      Hash: 0d2fffaf8f29e7a860ac811da5ec1909
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Klak.Wiring
+    className: GyroInput
+  - hash:
+      serializedVersion: 2
+      Hash: 0abfb6e6e1fea7870d9d7244532af310
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Kino
+    className: Isoline
+  - hash:
+      serializedVersion: 2
+      Hash: 748dd2a2a28da4e618912da5ac45684b
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.EventSystems
+    className: StandaloneInputModule
+  - hash:
+      serializedVersion: 2
+      Hash: 911d82c3ad97ed8facf56db59b08c860
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFade
+  - hash:
+      serializedVersion: 2
+      Hash: aa88ae22474df55295327e4ee99e5a24
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Toggle
+  - hash:
+      serializedVersion: 2
+      Hash: 6df44f812949325f3031341c8e161b31
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Klak.Wiring
+    className: MaterialColorOut
+  - hash:
+      serializedVersion: 2
+      Hash: 8220b46879dc5e37db1b940c938f5744
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: SignalEmitter
+  - hash:
+      serializedVersion: 2
+      Hash: 0fa455dac42f14923302e59591c9adb5
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFadeOnStart
+  - hash:
+      serializedVersion: 2
+      Hash: 00de8b23268eebd4e9bca29080c0fd8f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Kino
+    className: AnalogGlitch
+  - hash:
+      serializedVersion: 2
+      Hash: 7072231382eb3c4871b3dd75ad0227e1
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Slider
+  - hash:
+      serializedVersion: 2
+      Hash: 8fa971f7be1c3128c1734aae59278c7f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Klak.Wiring
+    className: VectorMix
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: SceneChanger
+  - hash:
+      serializedVersion: 2
+      Hash: 9e726289e9f90a8d75cd686eed4a1c48
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Kino
+    className: Mirror
+  - hash:
+      serializedVersion: 2
+      Hash: 91e2eec361699f863710fcbb0d082e15
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Klak.Wiring
+    className: MousePositionInput
+  - hash:
+      serializedVersion: 2
+      Hash: 0fd6822f6177297bd0eb4d83cc7a9030
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: ToggleGroup
+  - hash:
+      serializedVersion: 2
+      Hash: afaa6ffc81c3da639a9c489e2a3f7e1e
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Klak.Wiring
+    className: Delay
+  - hash:
+      serializedVersion: 2
+      Hash: 5e8033338ccc1611becf5eece9d12362
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Klak.Wiring
+    className: RigidbodyOut
+  - hash:
+      serializedVersion: 2
+      Hash: c3d3430df9e3ea95e3e3d587961390fb
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: PlayableTrack
+  platform: 19
+  scenePathNames:
+  - Assets/Scenes/0_PictoFriends.unity
+  - Assets/Scenes/1_PictoTrain.unity
+  - Assets/Scenes/2_PlasmaClub.unity
+  - Assets/Scenes/3_Keyboard.unity
+  - Assets/Scenes/4_CheeseStick.unity
+  - Assets/Scenes/5_Hungry.unity
+  playerPath: C:/Users/mati1/OneDrive/Desktop/Plasma/PlasmaClub.exe
